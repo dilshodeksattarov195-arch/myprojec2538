@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartsonnect",
+        "uuid": 18499482,
+        "checksum": "gpzkc"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
